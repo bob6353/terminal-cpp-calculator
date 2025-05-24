@@ -1,4 +1,4 @@
-// simple_calculator.cpp
+// Calc.cpp
 // MIT License
 // Copyright (c) 2025 Humbug!!
 
